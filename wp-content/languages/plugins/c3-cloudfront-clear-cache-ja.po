@@ -1,0 +1,57 @@
+# Translation of Plugins - C3 Cloudfront Cache Controller - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - C3 Cloudfront Cache Controller - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-19 20:17:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - C3 Cloudfront Cache Controller - Development (trunk)\n"
+
+#: module/view/menus.php:63 module/view/menus.php:64
+msgid "CloudFront Settings"
+msgstr "CloudFront 設定"
+
+#: module/view/root.php:156
+msgid "CloudFront Cache Control"
+msgstr "CloudFront キャッシュコントロール"
+
+#: module/view/root.php:160
+msgid "Notice: Every page's cache is removed."
+msgstr "警告: 全てのページのキャッシュが消去されます。"
+
+#. Plugin Name of the plugin
+#: module/view/root.php:95
+msgid "C3 Cloudfront Cache Controller"
+msgstr "C3 Cloudfront Cache Controller"
+
+#. Author of the plugin
+msgid "hideokamoto"
+msgstr "hideokamoto"
+
+#: module/view/root.php:133
+msgid "Save Change"
+msgstr "変更を保存"
+
+#: module/view/root.php:119
+msgid "General Settings"
+msgstr "総合設定"
+
+#: module/view/root.php:159 module/view/root.php:164
+msgid "Flush All Cache"
+msgstr "全てのキャッシュをクリア"
+
+#: module/base.php:209
+msgid "AWS Access Key"
+msgstr "AWS アクセスキー"
+
+#: module/base.php:210
+msgid "AWS Secret Key"
+msgstr "AWS シークレットキー"
+
+#: module/base.php:208
+msgid "CloudFront Distribution ID"
+msgstr "CloudFront Distribution ID"
